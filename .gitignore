@@ -1,0 +1,40 @@
+# 秘密
+.env
+.env.local
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+venv/
+
+# 成果物・大容量（Drive 永続。Git に載せない）
+checkpoints/
+outputs/
+logs/
+exports/
+*.mp4
+*.avi
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+hf-cache/
+Genesis/
+rsl_rl/
+
+# OS / 編集
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# 個人情報付き下書きを誤って載せない
+*個人*
+*resume*

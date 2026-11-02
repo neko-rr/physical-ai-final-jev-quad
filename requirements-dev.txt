@@ -1,0 +1,4 @@
+# PC上の静的テスト用（Colab本番の genesis 等は含めない）
+numpy>=1.24
+Pillow>=10.0
+pytest>=8.0

@@ -1,0 +1,8 @@
+# Colab 本番用（torch は Colab 既定を優先）
+genesis-world
+rsl-rl-lib>=5.0.0
+tensorboard
+typesafe-sdk>=0.7.5
+Pillow>=10.0
+numpy>=1.24
+tensordict
