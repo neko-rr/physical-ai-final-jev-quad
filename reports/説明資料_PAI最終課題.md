@@ -3,7 +3,7 @@
 **課題:** Physical AI講座 2026 応用編1 最終課題（AI×ロボティクスによる創造的タスクの実現）  
 **タイトル:** Jev が選ぶネコっぽい四足行動（Genesis 試行 + PyBullet + 画像診断）  
 **動画:** https://youtu.be/Aprp-QIMXPU （限定公開）  
-**コード:** 本リポジトリ（GitHub public 予定）※URLは提出フォームに記入
+**コード:** https://github.com/neko-rr/physical-ai-final-jev-quad （public）
 
 > 本資料および成果物に、氏名・所属・メールアドレス等の個人情報は含めません。
 

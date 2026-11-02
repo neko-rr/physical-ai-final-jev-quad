@@ -4,6 +4,7 @@ Physical AI講座 2026 応用編1 最終課題の提出用リポジトリです�
 
 | 項目 | 内容 |
 |---|---|
+| GitHub（public） | https://github.com/neko-rr/physical-ai-final-jev-quad |
 | 動画（限定公開） | https://youtu.be/Aprp-QIMXPU |
 | レポート原稿 | [`reports/説明資料_PAI最終課題.md`](./reports/説明資料_PAI最終課題.md)（PDF化して提出） |
 | 正本と旧の区別 | [`docs/current-vs-legacy.md`](./docs/current-vs-legacy.md) |
@@ -68,7 +69,7 @@ python -m pytest
 - [x] YouTube: https://youtu.be/Aprp-QIMXPU （限定公開）
 - [ ] 公開状況フォーム: `限定公開対応`
 - [ ] レポート PDF（`reports/説明資料_PAI最終課題.md` を PDF 化。ファイル名に omnicampus アカウント名）
-- [ ] GitHub **public** URL
+- [x] GitHub **public**: https://github.com/neko-rr/physical-ai-final-jev-quad
 - [x] 個人情報なし → フォームに `確認しました`
 
 ---
